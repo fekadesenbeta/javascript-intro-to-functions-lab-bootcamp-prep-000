@@ -24,11 +24,6 @@ function sayHiToGrandma(hello) {
  return 'I can\'t hear you!';
 }
 
-function sayHiToGrandma(HELLO) {
-  if (HELLO.toLowerCase() === HELLO)
-  return "YES INDEED!";
-}
-
 
 
 
