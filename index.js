@@ -26,9 +26,9 @@ function sayHiToGrandma(hello) {
 
 }
 
-function sayHiToGrandma("I love you, Grandma.") {
+function sayHiToGrandma(I love you, Grandma.") {
  if ("I love you, Grandma." === hello)
- return 
+ return "I love you, too."
 
 }
 
