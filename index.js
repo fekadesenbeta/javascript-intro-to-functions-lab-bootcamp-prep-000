@@ -24,10 +24,13 @@ function sayHiToGrandma(hello) {
  return 'I can\'t hear you!';
  else return 'YES INDEED!';
 
-  
 }
 
+function sayHiToGrandma(hello) {
+ if (hello === hello)
+ return 
 
+}
 
 
 
