@@ -26,7 +26,7 @@ function sayHiToGrandma(hello) {
 
 function sayHiToGrandma(HELLO) {
   if (HELLO.toLowerCase() === HELLO)
-  return 
+  return "YES INDEED!"
 }
 
 
