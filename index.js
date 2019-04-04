@@ -26,7 +26,7 @@ function sayHiToGrandma(hello) {
  else return 'YES INDEED!';
  
 }
-sayHiToGrandma("I love you, Grandma")
+
 
 
 
